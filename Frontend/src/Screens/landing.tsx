@@ -22,7 +22,6 @@ export const Landing = ()=>{
                         </button>
                     </div>
                 </div>
-
             </div>
         </div>
     </div>
